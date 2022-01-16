@@ -43,3 +43,10 @@ https://www.youtube.com/watch?v=X_fDdUgqIUQ
 
 # Pics
 
+![](final_setup.jpg)
+
+![](first_setup.jpg)
+
+![](miner1.JPG)
+
+![](miner2.JPG)
